@@ -1,3 +1,4 @@
 Vamos a hacer nuevos cambios ahora. 
-Hoy es 7 de diciembre del 2021
-Esta es la clase número 12 del curso de Git y Github profesional 
+Hoy es 7 de diciembre del 2021.
+Esta es la clase número 12 del curso de Git y Github profesional.
+Mañana es el día de las velitas.

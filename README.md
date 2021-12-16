@@ -4,6 +4,7 @@ Creación del repositorio para el [curso profesional de Git y Github de Platzi](
 
 Este curso ha sido de gran ayuda para poder entender en la totalidad Git y GitHub.
 * Esto es de la clase número 38.
+* Minuto 2 de la clase
 
 #### ¡Nunca Pares De Aprender!
 

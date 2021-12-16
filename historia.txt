@@ -2,7 +2,6 @@ Esta es la historia de Camilo Valencia
 Clase número 8 del curso de Git y Github profesional con Freddy.
 Este cambio es de la clase 12, último minuto de clase
 Clase número 35 del curso: Git Rebase
-
+Main 2
 Experimento 1
 Experimento 2
-Main 2

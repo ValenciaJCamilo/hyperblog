@@ -3,6 +3,7 @@ Creación del repositorio para el [curso profesional de Git y Github de Platzi](
 >La modificación de este archivo se realizó en la clase 33 del curso, el día 15 de diciembre del 2021.
 
 Este curso ha sido de gran ayuda para poder entender en la totalidad Git y GitHub.
+* Esto es de la clase número 38.
 
 #### ¡Nunca Pares De Aprender!
 
